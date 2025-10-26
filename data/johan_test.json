@@ -1,0 +1,92 @@
+[
+    {
+        "question": "ఫార్న్స్‌వర్త్ రైట్ అన్యదేశ ప్రదేశాలలో జరిగే కథలతో కూడిన పత్రికలను మాత్రమే సవరించాడా?",
+        "context": "Oriental Stories, later retitled The Magic Carpet Magazine, was an American pulp magazine published by Popular Fiction and edited by Farnsworth Wright. It was launched in 1930 under the title Oriental Stories as a companion to Popular Fiction's Weird Tales, and carried stories with far eastern settings, including some fantasy. Contributors included Robert E. Howard, Frank Owen, and E. Hoffmann Price. In 1932 publication was paused after the Summer issue; it was relaunched in 1933 under the title The Magic Carpet Magazine, with an expanded editorial policy that now included any story set in an exotic location, including other planets.",
+        "lang": "te",
+        "answerable": false,
+        "answer_start": -1,
+        "answer": null,
+        "answer_inlang": null
+    },
+    {
+        "question": "ఓరియంటల్ స్టోరీస్ సంపాదకుడు ఎవరు?",
+        "context": "Oriental Stories, later retitled The Magic Carpet Magazine, was an American pulp magazine published by Popular Fiction and edited by Farnsworth Wright. It was launched in 1930 under the title Oriental Stories as a companion to Popular Fiction's Weird Tales, and carried stories with far eastern settings, including some fantasy. Contributors included Robert E. Howard, Frank Owen, and E. Hoffmann Price. In 1932 publication was paused after the Summer issue; it was relaunched in 1933 under the title The Magic Carpet Magazine, with an expanded editorial policy that now included any story set in an exotic location, including other planets.",
+        "lang": "te",
+        "answerable": true,
+        "answer_start": 21,
+        "answer": "Farnsworth Wright",
+        "answer_inlang": "Farnsworth Wright"
+    },
+    {
+        "question": "2004లో కొన్నోలీ గాల్వే మేయర్‌గా ఉన్నారా?",
+        "context": "Connolly began her political career as a member of the Labour Party, for which she was elected to Galway City Council in 1999, and was Mayor of Galway from 2004 to 2005. She left the party in 2006 in a dispute over candidate selection. After unsuccessfully contesting the 2007 and 2011 general elections in Galway West as an independent, Connolly was elected to the Dáil in 2016. She became Ireland's first female Leas-Cheann Comhairle, serving in the 33rd Dáil from July 2020 to November 2024. Connolly ran as an independent candidate in the 2025 presidential election, supported by Sinn Féin, the Social Democrats, the Labour Party, People Before Profit, the Green Party, 100% Redress, and several independent Oireachtas members.",
+        "lang": "te",
+        "answerable": true,
+        "answer_start": 25,
+        "answer": "Yes",
+        "answer_inlang": "అవును"
+    },
+    {
+        "question": "కొన్నోలీ ఎప్పుడు డయిల్‌కు ఎన్నికయ్యారు?",
+        "context": "Connolly began her political career as a member of the Labour Party, for which she was elected to Galway City Council in 1999, and was Mayor of Galway from 2004 to 2005. She left the party in 2006 in a dispute over candidate selection. After unsuccessfully contesting the 2007 and 2011 general elections in Galway West as an independent, Connolly was elected to the Dáil in 2016. She became Ireland's first female Leas-Cheann Comhairle, serving in the 33rd Dáil from July 2020 to November 2024. Connolly ran as an independent candidate in the 2025 presidential election, supported by Sinn Féin, the Social Democrats, the Labour Party, People Before Profit, the Green Party, 100% Redress, and several independent Oireachtas members.",
+        "lang": "te",
+        "answerable": true,
+        "answer_start": 61,
+        "answer": "2016",
+        "answer_inlang": "2016"
+    },
+    {
+        "question": "కొరియాతో జరిగిన యుద్ధంలో జపాన్ గెలిచిందా?",
+        "context": "In 1597, Japan renewed its offensive by invading Korea a second time. The pattern of the second invasion largely mirrored that of the first. The Japanese had initial successes on land, capturing several cities and fortresses, only to be halted and forced to withdraw to the southern coastal regions of the peninsula. However, the pursuing Ming and Joseon forces were unable to dislodge the Japanese from these positions, where both sides again became locked in a ten-month-long military stalemate.",
+        "lang": "te",
+        "answerable": false,
+        "answer_start": -1,
+        "answer": null,
+        "answer_inlang": null
+    },
+    {
+        "question": "యుద్ధం ఎంతకాలం కొనసాగింది?",
+        "context": "In 1597, Japan renewed its offensive by invading Korea a second time. The pattern of the second invasion largely mirrored that of the first. The Japanese had initial successes on land, capturing several cities and fortresses, only to be halted and forced to withdraw to the southern coastal regions of the peninsula. However, the pursuing Ming and Joseon forces were unable to dislodge the Japanese from these positions, where both sides again became locked in a ten-month-long military stalemate.",
+        "lang": "te",
+        "answerable": false,
+        "answer_start": -1,
+        "answer": null,
+        "answer_inlang": null
+    },
+    {
+        "question": "ఫ్రాన్స్‌తో అమెరికా వాణిజ్యంపై రాయల్ నేవీ కఠినమైన నియంత్రణలు విధించిందా?",
+        "context": "Anglo-American tensions stemmed from long-standing differences over territorial expansion in North America and British support for Tecumseh's confederacy, which resisted U.S. colonial settlement in the Old Northwest. In 1807, these tensions escalated after the Royal Navy began enforcing tighter restrictions on American trade with France and impressed sailors who were originally British subjects, even those who had acquired American citizenship. Opinion in the U.S. was split on how to respond, and although majorities in both the House and Senate voted for war in June 1812, they were divided along strict party lines, with the Democratic-Republican Party in favour and the Federalist Party against.",
+        "lang": "te",
+        "answerable": true,
+        "answer_start": 40,
+        "answer": "Yes",
+        "answer_inlang": "అవును"
+    },
+    {
+        "question": "ఫ్రాన్స్‌తో వాణిజ్యంపై రాయల్ నేవీ విధించిన కఠినమైన ఆంక్షల గురించి అమెరికన్ వ్యాపారులు వ్యక్తిగతంగా ఎలా భావించారు?",
+        "context": "Anglo-American tensions stemmed from long-standing differences over territorial expansion in North America and British support for Tecumseh's confederacy, which resisted U.S. colonial settlement in the Old Northwest. In 1807, these tensions escalated after the Royal Navy began enforcing tighter restrictions on American trade with France and impressed sailors who were originally British subjects, even those who had acquired American citizenship. Opinion in the U.S. was split on how to respond, and although majorities in both the House and Senate voted for war in June 1812, they were divided along strict party lines, with the Democratic-Republican Party in favour and the Federalist Party against.",
+        "lang": "te",
+        "answerable": false,
+        "answer_start": -1,
+        "answer": null,
+        "answer_inlang": null
+    },
+    {
+        "question": "1900-1902 నాటి రష్యన్ ధ్రువ యాత్రకు ఎడ్వర్డ్ వాన్ టోల్ నాయకత్వం వహించాడా?",
+        "context": "The Russian polar expedition of 1900-1902 was commissioned by the Saint Petersburg Academy of Sciences to study the Arctic Ocean north of the New Siberian Islands and search for the legendary Sannikov Land. It was led by the Baltic German geologist and Arctic explorer Baron Eduard von Toll on the ship Zarya. Toll and his three assistants vanished in late 1902 while exploring Bennett Island. One of the key members of the expedition was Alexander Kolchak, then a young researcher and lieutenant of the Russian Navy, and later a leader of the white movement and provisional government of Russia during the civil war period. Kolchak also led the rescue mission to find Toll and his crew.",
+        "lang": "te",
+        "answerable": true,
+        "answer_start": 36,
+        "answer": "Yes",
+        "answer_inlang": "అవును"
+    },    
+    {
+        "question": "1900-1902 నాటి రష్యన్ ధ్రువ యాత్ర యొక్క ప్రాథమిక లక్ష్యం ఏమిటి?",
+        "context": "The Russian polar expedition of 1900-1902 was commissioned by the Saint Petersburg Academy of Sciences to study the Arctic Ocean north of the New Siberian Islands and search for the legendary Sannikov Land. It was led by the Baltic German geologist and Arctic explorer Baron Eduard von Toll on the ship Zarya. Toll and his three assistants vanished in late 1902 while exploring Bennett Island. One of the key members of the expedition was Alexander Kolchak, then a young researcher and lieutenant of the Russian Navy, and later a leader of the white movement and provisional government of Russia during the civil war period. Kolchak also led the rescue mission to find Toll and his crew.",
+        "lang": "te",
+        "answerable": true,
+        "answer_start": 16,
+        "answer": "To study the Arctic Ocean north of the New Siberian Islands and search for the legendary Sannikov Land",
+        "answer_inlang": "న్యూ సైబీరియన్ దీవులకు ఉత్తరాన ఉన్న ఆర్కిటిక్ మహాసముద్రాన్ని అధ్యయనం చేయడానికి మరియు పురాణ సన్నికోవ్ భూమి కోసం శోధించడానికి"
+    }
+]
