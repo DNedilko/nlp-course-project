@@ -1,0 +1,11 @@
+question,context,lang,answerable,answer_start,answer,answer_inlang
+What planet is known as the Red Planet?,Planet Mars has a reddish appearance caused by iron oxide on its surface.,en,True,7,Mars,Mars
+Who is considered the painter of the Mona Lisa?,The Mona Lisa is a famous portrait housed in the Louvre Museum in Paris. It was painted by the Italian artist Leonardo da Vinci.,en,True,97,Leonardo da Vinci,Leonardo da Vinci
+What is the currency of Japan?,The currency of Japan has a similar name as the Chinese yuan.,en,False,-1,no answer,no answer
+Where is the Great Wall located?,The Great Wall stretches over northern China and was built to protect against invasions.,en,True,39,northern China,northern China
+Who discovered penicillin?,"In 1928, Alexander Fleming accidentally discovered penicillin when he noticed mold killing bacteria in a petri dish.",en,True,9,Alexander Fleming,Alexander Fleming
+What is the speed of light?,"The speed of light in a vacuum is approximately 299,792 kilometers per second.",en,True,36,"299,792 kilometers per second","299,792 kilometers per second"
+Quelle est la capitale du Brésil?,"La plus grande ville du Brésil est São Paulo, tandis que Rio de Janeiro est une destination touristique majeure.",fr,False,-1,no answer,no answer
+Who was the first person to walk on the Moon?,The Apollo 11 mission in 1969 landed astronauts on the Moon for the first time. Neil Armstrong became the first human to step on its surface.,en,True,106,Neil Armstrong,Neil Armstrong
+What gas do humans breathe in to survive?,"The Earth's atmosphere contains nitrogen, oxygen, carbon dioxide, and trace gases. Oxygen is essential for human respiration.",en,True,84,Oxygen,Oxygen
+Was ist die Hauptstadt von Kanada?,"Die größte Stadt Kanadas ist Toronto, und zu seinen westlichen Provinzen gehören British Columbia und Alberta.",de,False,-1,no answer,no answer
