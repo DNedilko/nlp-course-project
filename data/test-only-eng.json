@@ -1,0 +1,290 @@
+[
+  {
+    "question":"When was the Kyivan Rus' founded?",
+    "context":"Kyivan Rus' was a federation of Slavic tribes established in the late 9th century and centered in Kyiv, which became a powerful state in Eastern Europe.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":64,
+    "answer":"late 9th century",
+    "answer_inlang":"late 9th century"
+  },
+  {
+    "question":"Which city was the political center of Kyivan Rus'?",
+    "context":"Kyivan Rus' was a federation of Slavic tribes established in the late 9th century and centered in Kyiv, which became a powerful state in Eastern Europe.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":89,
+    "answer":"Kyiv",
+    "answer_inlang":"Kyiv"
+  },
+  {
+    "question":"Which prince converted Kyivan Rus' to Christianity?",
+    "context":"In 988, Prince Volodymyr the Great adopted Christianity as the state religion, marking a defining moment in the history of Kyivan Rus'.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":9,
+    "answer":"Prince Volodymyr the Great",
+    "answer_inlang":"Prince Volodymyr the Great"
+  },
+  {
+    "question":"When did Ukraine declare independence from the Soviet Union?",
+    "context":"Ukraine declared its independence from the Soviet Union on 24 August 1991, following a failed coup attempt in Moscow.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":60,
+    "answer":"24 August 1991",
+    "answer_inlang":"24 August 1991"
+  },
+  {
+    "question":"Which empire ruled most of western Ukraine before World War I?",
+    "context":"Before World War I, western Ukraine was part of the Austro-Hungarian Empire, while central and eastern regions were controlled by the Russian Empire.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":56,
+    "answer":"Austro-Hungarian Empire",
+    "answer_inlang":"Austro-Hungarian Empire"
+  },
+  {
+    "question":"Was the Holodomor a man-made famine in Soviet Ukraine?",
+    "context":"The Holodomor was a man-made famine that took place in Soviet Ukraine from 1932 to 1933, resulting in the deaths of millions of people.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":4,
+    "answer":"Yes",
+    "answer_inlang":"Yes"
+  },
+  {
+    "question":"Did Ukraine become independent in 1989?",
+    "context":"Ukraine declared its independence from the Soviet Union on 24 August 1991, following a failed coup attempt in Moscow.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":60,
+    "answer":"No",
+    "answer_inlang":"No"
+  },
+  {
+    "question":"Who was the first President of independent Ukraine?",
+    "context":"Ukraine declared its independence from the Soviet Union on 24 August 1991, following a failed coup attempt in Moscow.",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":null
+  },
+  {
+    "question":"Did the Cossack Hetmanate sign a treaty with the Tsardom of Russia?",
+    "context":"The Pereyaslav Agreement of 1654 was a treaty between the Cossack Hetmanate and the Tsardom of Russia, signed in the city of Pereyaslav.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":44,
+    "answer":"Yes",
+    "answer_inlang":"Yes"
+  },
+  {
+    "question":"Who was the leader of the Ukrainian Insurgent Army during World War II?",
+    "context":"During World War II, Ukraine became a major battlefield, suffering immense losses under both Nazi and Soviet occupations.",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":null
+  },
+  {
+    "question":"Was Kyiv reaffirmed as the capital of Ukraine after independence?",
+    "context":"After Ukraine gained independence in 1991, Kyiv was reaffirmed as the nation’s capital and the center of its political and cultural life.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":41,
+    "answer":"Yes",
+    "answer_inlang":"Yes"
+  },
+  {
+    "question":"Did the Crimean Khanate exist before the Kyivan Rus'?",
+    "context":"The Crimean Khanate was established in the 15th century",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":null
+  },
+  {
+    "question":"Did Farnsworth Wright only edit magazines with stories set in exotic locations?",
+    "context":"Oriental Stories, later retitled The Magic Carpet Magazine, was an American pulp magazine published by Popular Fiction and edited by Farnsworth Wright. It was launched in 1930 under the title Oriental Stories as a companion to Popular Fiction's Weird Tales, and carried stories with far eastern settings, including some fantasy. Contributors included Robert E. Howard, Frank Owen, and E. Hoffmann Price. In 1932 publication was paused after the Summer issue; it was relaunched in 1933 under the title The Magic Carpet Magazine, with an expanded editorial policy that now included any story set in an exotic location, including other planets.",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":null
+  },
+  {
+    "question":"Who is the editor of Oriental Stories?",
+    "context":"Oriental Stories, later retitled The Magic Carpet Magazine, was an American pulp magazine published by Popular Fiction and edited by Farnsworth Wright. It was launched in 1930 under the title Oriental Stories as a companion to Popular Fiction's Weird Tales, and carried stories with far eastern settings, including some fantasy. Contributors included Robert E. Howard, Frank Owen, and E. Hoffmann Price. In 1932 publication was paused after the Summer issue; it was relaunched in 1933 under the title The Magic Carpet Magazine, with an expanded editorial policy that now included any story set in an exotic location, including other planets.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":21,
+    "answer":"Farnsworth Wright",
+    "answer_inlang":"Farnsworth Wright"
+  },
+  {
+    "question":"Was Connolly the mayor of Galway in 2004?",
+    "context":"Connolly began her political career as a member of the Labour Party, for which she was elected to Galway City Council in 1999, and was Mayor of Galway from 2004 to 2005. She left the party in 2006 in a dispute over candidate selection. After unsuccessfully contesting the 2007 and 2011 general elections in Galway West as an independent, Connolly was elected to the Dáil in 2016. She became Ireland's first female Leas-Cheann Comhairle, serving in the 33rd Dáil from July 2020 to November 2024. Connolly ran as an independent candidate in the 2025 presidential election, supported by Sinn Féin, the Social Democrats, the Labour Party, People Before Profit, the Green Party, 100% Redress, and several independent Oireachtas members.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":25,
+    "answer":"Yes",
+    "answer_inlang":"Yes"
+  },
+  {
+    "question":"When was Connolly elected to the Dail?",
+    "context":"Connolly began her political career as a member of the Labour Party, for which she was elected to Galway City Council in 1999, and was Mayor of Galway from 2004 to 2005. She left the party in 2006 in a dispute over candidate selection. After unsuccessfully contesting the 2007 and 2011 general elections in Galway West as an independent, Connolly was elected to the Dáil in 2016. She became Ireland's first female Leas-Cheann Comhairle, serving in the 33rd Dáil from July 2020 to November 2024. Connolly ran as an independent candidate in the 2025 presidential election, supported by Sinn Féin, the Social Democrats, the Labour Party, People Before Profit, the Green Party, 100% Redress, and several independent Oireachtas members.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":61,
+    "answer":"2016",
+    "answer_inlang":"2016"
+  },
+  {
+    "question":"Did Japan win the war with Korea?",
+    "context":"In 1597, Japan renewed its offensive by invading Korea a second time. The pattern of the second invasion largely mirrored that of the first. The Japanese had initial successes on land, capturing several cities and fortresses, only to be halted and forced to withdraw to the southern coastal regions of the peninsula. However, the pursuing Ming and Joseon forces were unable to dislodge the Japanese from these positions, where both sides again became locked in a ten-month-long military stalemate.",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":null
+  },
+  {
+    "question":"How long did the war last?",
+    "context":"In 1597, Japan renewed its offensive by invading Korea a second time. The pattern of the second invasion largely mirrored that of the first. The Japanese had initial successes on land, capturing several cities and fortresses, only to be halted and forced to withdraw to the southern coastal regions of the peninsula. However, the pursuing Ming and Joseon forces were unable to dislodge the Japanese from these positions, where both sides again became locked in a ten-month-long military stalemate.",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":null
+  },
+  {
+    "question":"Did the Royal Navy impose strict restrictions on American trade with France?",
+    "context":"Anglo-American tensions stemmed from long-standing differences over territorial expansion in North America and British support for Tecumseh's confederacy, which resisted U.S. colonial settlement in the Old Northwest. In 1807, these tensions escalated after the Royal Navy began enforcing tighter restrictions on American trade with France and impressed sailors who were originally British subjects, even those who had acquired American citizenship. Opinion in the U.S. was split on how to respond, and although majorities in both the House and Senate voted for war in June 1812, they were divided along strict party lines, with the Democratic-Republican Party in favour and the Federalist Party against.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":40,
+    "answer":"Yes",
+    "answer_inlang":"Yes"
+  },
+  {
+    "question":"How did American merchants personally feel about the Royal Navy's strict restrictions on trade with France?",
+    "context":"Anglo-American tensions stemmed from long-standing differences over territorial expansion in North America and British support for Tecumseh's confederacy, which resisted U.S. colonial settlement in the Old Northwest. In 1807, these tensions escalated after the Royal Navy began enforcing tighter restrictions on American trade with France and impressed sailors who were originally British subjects, even those who had acquired American citizenship. Opinion in the U.S. was split on how to respond, and although majorities in both the House and Senate voted for war in June 1812, they were divided along strict party lines, with the Democratic-Republican Party in favour and the Federalist Party against.",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":null
+  },
+  {
+    "question":"Did Eduard von Toll lead the Russian polar expedition of 1900-1902?",
+    "context":"The Russian polar expedition of 1900-1902 was commissioned by the Saint Petersburg Academy of Sciences to study the Arctic Ocean north of the New Siberian Islands and search for the legendary Sannikov Land. It was led by the Baltic German geologist and Arctic explorer Baron Eduard von Toll on the ship Zarya. Toll and his three assistants vanished in late 1902 while exploring Bennett Island. One of the key members of the expedition was Alexander Kolchak, then a young researcher and lieutenant of the Russian Navy, and later a leader of the white movement and provisional government of Russia during the civil war period. Kolchak also led the rescue mission to find Toll and his crew.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":36,
+    "answer":"Yes",
+    "answer_inlang":"Yes"
+  },
+  {
+    "question":"What was the primary objective of the Russian polar expedition of 1900-1902?",
+    "context":"The Russian polar expedition of 1900-1902 was commissioned by the Saint Petersburg Academy of Sciences to study the Arctic Ocean north of the New Siberian Islands and search for the legendary Sannikov Land. It was led by the Baltic German geologist and Arctic explorer Baron Eduard von Toll on the ship Zarya. Toll and his three assistants vanished in late 1902 while exploring Bennett Island. One of the key members of the expedition was Alexander Kolchak, then a young researcher and lieutenant of the Russian Navy, and later a leader of the white movement and provisional government of Russia during the civil war period. Kolchak also led the rescue mission to find Toll and his crew.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":16,
+    "answer":"To study the Arctic Ocean north of the New Siberian Islands and search for the legendary Sannikov Land",
+    "answer_inlang":"To study the Arctic Ocean north of the New Siberian Islands and search for the legendary Sannikov Land"
+  },
+  {
+    "question":"What planet is known as the Red Planet?",
+    "context":"Planet Mars has a reddish appearance caused by iron oxide on its surface.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":7,
+    "answer":"Mars",
+    "answer_inlang":"Mars"
+  },
+  {
+    "question":"Who is considered the painter of the Mona Lisa?",
+    "context":"The Mona Lisa is a famous portrait housed in the Louvre Museum in Paris. It was painted by the Italian artist Leonardo da Vinci.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":97,
+    "answer":"Leonardo da Vinci",
+    "answer_inlang":"Leonardo da Vinci"
+  },
+  {
+    "question":"What is the currency of Japan?",
+    "context":"The currency of Japan has a similar name as the Chinese yuan.",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":"no answer"
+  },
+  {
+    "question":"Where is the Great Wall located?",
+    "context":"The Great Wall stretches over northern China and was built to protect against invasions.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":39,
+    "answer":"northern China",
+    "answer_inlang":"northern China"
+  },
+  {
+    "question":"Who discovered penicillin?",
+    "context":"In 1928, Alexander Fleming accidentally discovered penicillin when he noticed mold killing bacteria in a petri dish.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":9,
+    "answer":"Alexander Fleming",
+    "answer_inlang":"Alexander Fleming"
+  },
+  {
+    "question":"What is the speed of light?",
+    "context":"The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":36,
+    "answer":"299,792 kilometers per second",
+    "answer_inlang":"299,792 kilometers per second"
+  },
+  {
+    "question":"What is the capital of Brazil?",
+    "context":"The largest city in Brazil is São Paulo, while Rio de Janeiro is a major tourist destination.",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":"no answer"
+  },
+  {
+    "question":"Who was the first person to walk on the Moon?",
+    "context":"The Apollo 11 mission in 1969 landed astronauts on the Moon for the first time. Neil Armstrong became the first human to step on its surface.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":106,
+    "answer":"Neil Armstrong",
+    "answer_inlang":"Neil Armstrong"
+  },
+  {
+    "question":"What gas do humans breathe in to survive?",
+    "context":"The Earth's atmosphere contains nitrogen, oxygen, carbon dioxide, and trace gases. Oxygen is essential for human respiration.",
+    "lang":"en",
+    "answerable":true,
+    "answer_start":84,
+    "answer":"Oxygen",
+    "answer_inlang":"Oxygen"
+  },
+  {
+    "question":"What is the capital of Canada?",
+    "context":"The largest city in Canada is Toronto, and its western provinces include British Columbia and Alberta.",
+    "lang":"en",
+    "answerable":false,
+    "answer_start":-1,
+    "answer":"no answer",
+    "answer_inlang":"no answer"
+  }
+]
