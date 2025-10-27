@@ -253,7 +253,7 @@
   },
   {
     "question":"Quelle est la capitale du Brésil?",
-    "context":"La plus grande ville du Brésil est São Paulo, tandis que Rio de Janeiro est une destination touristique majeure.",
+    "context":"The largest city in Brazil is São Paulo, while Rio de Janeiro is a major tourist destination.",
     "lang":"fr",
     "answerable":false,
     "answer_start":-1,
@@ -280,7 +280,7 @@
   },
   {
     "question":"Was ist die Hauptstadt von Kanada?",
-    "context":"Die größte Stadt Kanadas ist Toronto, und zu seinen westlichen Provinzen gehören British Columbia und Alberta.",
+    "context":"The largest city in Canada is Toronto, and its western provinces include British Columbia and Alberta.",
     "lang":"de",
     "answerable":false,
     "answer_start":-1,
